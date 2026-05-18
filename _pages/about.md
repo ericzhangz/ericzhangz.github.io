@@ -33,7 +33,7 @@ Hello! My name is **Zheng Zhang**(张政), an undergraduate student majoring in 
     </div>
 
     <div class="paper-authors">
-      <strong>Zheng Zhang</strong>, Long Chen, Jiaye Yang, Qingjie Guo, Jiangrong Shen, Qi Xu
+      <strong>Zheng Zhang</strong>, Jiaye Yang, Qingjie Guo, Jiangrong Shen, Long Chen, Qi Xu
     </div>
 
     <div class="paper-venue">
