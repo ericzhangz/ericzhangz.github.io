@@ -16,7 +16,7 @@ I am actively seeking Ph.D. opportunities for Fall 2027 / Spring 2028.
 <ul class="exp-list">
   <li>
     <span class="exp-date">2026.02-Now</span>,
-    Remote Research Intern,
+    Research Intern,
     <a href="http://brain-ai.ia.ac.cn/en/">Brain-AI Lab</a>,
     Institute of Automation, Chinese Academy of Sciences (CASIA)
   </li>
