@@ -40,7 +40,7 @@ I am actively seeking Ph.D. opportunities for Fall 2027 / Spring 2028.
     </div>
 
     <div class="paper-venue">
-      Proceedings of the 34th ACM International Conference on Multimedia. <span class="venue-bold">ACMMM 2026</span>
+      ACM International Conference on Multimedia. <span class="venue-bold">ACMMM 2026</span>
     </div>
 
     <div class="paper-links">
@@ -98,29 +98,6 @@ I am actively seeking Ph.D. opportunities for Fall 2027 / Spring 2028.
   </div>
 </div>
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <img src="/images/themes/STAGE.png" alt="Stage-CIL thumbnail">
-  </div>
-
-  <div class="paper-box-text">
-    <div class="paper-title">
-      When Classes Evolve: A Benchmark and Framework for Stage-Aware Class-Incremental Learning
-    </div>
-
-    <div class="paper-authors">
-      <strong>Zheng Zhang</strong>, Tao Hu, Xueheng Li, Yang Wang, Rui Li, Jie Zhang, Chengjun Xie
-    </div>
-
-    <div class="paper-venue">
-      Preprint.
-    </div>
-
-    <div class="paper-links">
-      <a href="https://arxiv.org/abs/2602.00573">[Paper]</a>
-    </div>
-  </div>
-</div>
 
 # 💻 Projects
 
