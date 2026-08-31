@@ -69,6 +69,7 @@ I am actively seeking Ph.D. opportunities for Fall 2027 / Spring 2028.
     </div>
 
     <div class="paper-links">
+      <a href="https://openreview.net/forum?id=2HlW5mj6Ch">[Paper]</a>
     </div>
   </div>
 </div>
