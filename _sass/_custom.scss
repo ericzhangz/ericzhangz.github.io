@@ -5,10 +5,18 @@
 /* ---------- Global typography on homepage content ---------- */
 
 .page__content {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  // Original homepage-specific system font override
+  // font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  //   "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+  // Inherit Trebuchet MS from the global typography settings
+  font-family: inherit;
+
   color: #3f444a;
-  line-height: 1.65;
+
+  // Original relaxed homepage spacing
+  // line-height: 1.65;
+  line-height: 1.5;
 }
 
 /* Reduce section-title size: Work Experience / Research / Projects */
