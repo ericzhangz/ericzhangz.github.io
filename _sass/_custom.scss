@@ -238,3 +238,53 @@
     object-fit: unset !important;
   }
 }
+
+/* =========================================================
+   Dark theme overrides
+   Keep the custom light-theme palette above unchanged.
+   ========================================================= */
+
+html[data-theme="dark"] {
+
+  /* Main homepage text */
+  .page__content {
+    color: var(--global-text-color);
+  }
+
+  /* Section headings */
+  .page__content h1,
+  .page__content h2 {
+    color: var(--global-text-color) !important;
+    border-bottom-color: var(--global-border-color) !important;
+  }
+
+  /* Experience */
+  .exp-date,
+  .exp-role {
+    color: var(--global-text-color-light);
+  }
+
+  /* Paper / project cards */
+  .paper-title {
+    color: var(--global-text-color) !important;
+  }
+
+  .paper-authors,
+  .paper-venue {
+    color: var(--global-text-color-light) !important;
+  }
+
+  .project-awards {
+    color: var(--global-text-color-light);
+  }
+
+  /* Theme-aware accent links */
+  .venue-bold,
+  .paper-links a {
+    color: var(--global-link-color);
+  }
+
+  .paper-links a:hover {
+    color: var(--global-link-color-hover);
+  }
+}
