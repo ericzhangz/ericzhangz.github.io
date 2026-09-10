@@ -5,19 +5,18 @@
 @include border-box-sizing;
 
 html {
-  /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: var(--global-bg-color);
 
-  // Original Academic Pages typography
+  // Original
   // font-size: 16px;
 
-  // @include breakpoint($medium) {
-  //   font-size: 18px;
-  // }
+  font-size: 16px;
 
-  // Keep a compact and consistent academic-page scale across desktop widths
-  font-size: 15px;
+  @include breakpoint($medium) {
+    // Original: 18px
+    font-size: 17px;
+  }
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
