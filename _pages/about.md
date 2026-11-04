@@ -16,8 +16,8 @@ I will soon begin my M.Phil. studies at [The Hong Kong University of Science and
 <ul class="exp-list">
   <li>
     <span class="exp-date">2026.02-2026.09</span>,
-    Research Intern,
-    <a href="http://brain-ai.ia.ac.cn/en/">Brain-AI Lab</a>,
+    Research Intern with
+    <a href="https://fangwei123456.github.io/">Wei Fang</a> and <a href="https://casialiguoqi.github.io/">Guoqi Li</a>,
     Institute of Automation, Chinese Academy of Sciences (CASIA)
   </li>
 </ul>
