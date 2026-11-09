@@ -151,28 +151,6 @@ I will soon begin my M.Phil. studies at [The Hong Kong University of Science and
   </div>
 </div>
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <img src="/images/themes/chem.png" alt="Intelligent Chemical Titration thumbnail">
-  </div>
-
-  <div class="paper-box-text">
-    <div class="paper-title">
-      Intelligent Chemical Titration Analysis Device Based on Pruned YOLOv8
-    </div>
-
-    <div class="paper-authors">
-      <strong>Leader</strong>
-    </div>
-
-    <div class="project-awards">
-      <ul>
-        <li><strong>National First Prize</strong>, Intelligent Chemistry Experiment Challenge, 2024</li>
-        <li><strong>First Prize (Ranked 1st)</strong>, DUT Intelligent Chemistry Experiment Challenge, 2024</li>
-      </ul>
-    </div>
-  </div>
-</div>
 
 # 📝 Academic Services
 
